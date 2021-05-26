@@ -1,5 +1,6 @@
 # ITSC 2214 (Data Structures and Algorithms) Programming Assignment 2 (Priority Queue)
-- modify your first programming assignment to store your Customer objects in a priority queue instead of a regular queue. 
+- **Term Taken: Spring 2020**
+- Modify your first programming assignment to store your Customer objects in a priority queue instead of a regular queue. 
 - An updated PriorityCustomer class is provided for you. You must use that class, without alternations, for the creation of your PriorityCustomer objects. 
 -  You must analyze the class and use the provided methods to achieve the desired functionality of the program. 
 -   You will also need to create two additional classes.  
